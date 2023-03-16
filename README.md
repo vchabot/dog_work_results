@@ -1,2 +1,2 @@
-# work_results_cuncbg
-Retrieve all results from CUN-CBG website
+# dog_work_results
+Retrieve all results from sports-canins.net website
